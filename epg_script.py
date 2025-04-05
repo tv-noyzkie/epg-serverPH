@@ -4,13 +4,10 @@ import xml.etree.ElementTree as ET
 
 # List of EPG provider URLs
 provider_urls = {
-    "astrogo.xml": "https://raw.githubusercontent.com/azimabid00/epg/refs/heads/main/astro_epg.xml",
-    "mewatch.xml": "https://raw.githubusercontent.com/dbghelp/mewatch-EPG/refs/heads/main/mewatch.xml",
-    "starhub.xml": "https://raw.githubusercontent.com/dbghelp/StarHub-TV-EPG/refs/heads/main/starhub.xml",
-    "singtel.xml": "https://raw.githubusercontent.com/dbghelp/Singtel-TV-EPG/refs/heads/main/singtel.xml",
-    "clickthecity.xml": "https://www.open-epg.com/files/philippines1.xml",
-    "cignal.xml": "https://www.open-epg.com/files/philippines2.xml",
-    "skycable.xml": "https://www.open-epg.com/files/philippines3.xml",
+    "blastTV.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/blast.xml",
+    "clickthecity.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/clickthecity.xml",
+    "cignal.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/cplay.xml",
+    "mysky.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/mysky.xml",
 }
 
 # Load custom tvg-ids
