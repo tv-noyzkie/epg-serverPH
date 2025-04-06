@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 
 # List of EPG provider URLs
 provider_urls = {
-    "blastTV.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/blast.xml",
+    "blast.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/blast.xml",
     "clickthecity.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/clickthecity.xml",
     "cignal.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/cplay.xml",
     "mysky.xml": "https://raw.githubusercontent.com/tv-noyzkie/tvguidePH/refs/heads/main/output/mysky.xml",
